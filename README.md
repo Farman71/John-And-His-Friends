@@ -1,2 +1,16 @@
-# John-And-His-Friends
-This project demonstrates JavaScript array manipulation techniques using functions like .map(), .forEach(), .filter(), and .concat(). It focuses on performing specific operations on an array of employee objects to solve practical programming tasks.
+Employee Array Manipulation
+This project showcases various JavaScript array manipulation techniques to handle employee data effectively.
+
+Features
+Filter Developers
+
+Print all employees with the profession "developer" using .map() and .forEach().
+Add Employee Data
+
+Add a new employee object to the array.
+Remove Admins
+
+Remove objects with the profession "admin" from the array.
+Concatenate Arrays
+
+Combine the existing array with a new array of employee objects.
